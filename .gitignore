@@ -1,0 +1,9 @@
+*.pyc
+activate
+target.py
+*.swp
+.coverage
+coverage/htmlcov/
+*.xml
+*.iml
+.DS_Store
